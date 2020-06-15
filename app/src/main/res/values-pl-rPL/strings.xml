@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">lab2</string>
+    <string name="moj_tekst">Witaj świecie!</string>
+    <string name="moj_tekst1">Dzień dobry</string>
+    <string name="moj_tekst2">Do widzenia</string>
+    <string name="moj_tekst3">Dziękuję</string>
+    <string name="moj_tekst4">Przepraszam</string>
+    <string name="moj_tekst5">Kocgam Cię!</string>
+    <string name="moj_tekst6">JĘZYK POLSKI</string>
+</resources>

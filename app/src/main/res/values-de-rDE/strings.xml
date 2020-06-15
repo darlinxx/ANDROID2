@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">lab2</string>
+    <string name="moj_tekst">Hallo Welt!</string>
+    <string name="moj_tekst1">Guten Morgen</string>
+    <string name="moj_tekst2">Auf Wiedersehen</string>
+    <string name="moj_tekst3">Danke</string>
+    <string name="moj_tekst4">Entschuldigung</string>
+    <string name="moj_tekst5">Ich liebe dich!</string>
+    <string name="moj_tekst6">JĘZYK NIEMIECKI</string>
+</resources>
